@@ -4,7 +4,7 @@ I'm **Yusuf**, a college student, welcome to my GitHub profile!
 
 ### 🎓 Education
 - Currently studying in college
-- Course/Department: (add yours here)
+- Course : AIDS (Artifical Intelligence and Data Science)
 
 ### 💻 Software
 - Learning how GitHub and coding work
@@ -13,7 +13,6 @@ I'm **Yusuf**, a college student, welcome to my GitHub profile!
 ### 🛠️ Technical Skills
 - Git and GitHub basics
 - Problem solving and learning new tools
-- (Add your own skills here)
 
 ### 🔧 Hardware
 - Interested in electronics, devices and how machines work
